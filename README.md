@@ -8,3 +8,4 @@ This function pulls data using your league ID (league_index arg). username and p
 The seasonal data pulls many types of data and saves them into a pandas dataframe which is then saved as a csv file that can be further analyzed/plotted with matplotlib or excel.
 
 Example of dataframe saving data from 2020 season:
+![alt text](https://i.imgur.com/cfPEVCQ.png)
