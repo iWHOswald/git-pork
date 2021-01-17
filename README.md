@@ -1,6 +1,6 @@
 # git-pork
 This is the official data and analytics repo of Pork Rub Fantasy Football. This software is written in Python 3 and uses the ESPN api to pull data. The API can be found here:
-[GitHub Pages](https://github.com/cwendt94/espn-api).
+[espn-api](https://github.com/cwendt94/espn-api).
 Functions that allow for pulling tons or raw data for any league can be found here. Here is a brief listing of functions and what they can do (located in main.py):  
 
 [b]pull_all_data(league_index, username, password, draft)[/b]
