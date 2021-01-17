@@ -3,7 +3,7 @@ This is the official data and analytics repo of Pork Rub Fantasy Football. This 
 [espn-api](https://github.com/cwendt94/espn-api).
 Functions that allow for pulling tons or raw data for any league can be found here. Here is a brief listing of functions and what they can do (located in main.py):  
 
-[b]pull_all_data(league_index, username, password, draft)[/b]
+<b>pull_all_data(league_index, username, password, draft)</b>
 
 This function pulls data using your league ID (league_index arg). username and password can also be used if it's a private league. draft is a boolean where 0 does not pull draft data (strictly seasonal data) and 1 pulls strictly draft data.
 
